@@ -212,17 +212,17 @@ O código é composto pela função principal main, que realiza a leitura dos va
 
 ## Exemplo de Entrada e Saída:
 
-Caso 1: 
-Digite os valores de A, B e C (digite 0 em qualquer um para sair): 8 10 20
-Saída: Lado do terreno convertido: 20
+## Caso 1: 
+## Entrada: Digite os valores de A, B e C (digite 0 em qualquer um para sair): 8 10 20
+## Saída: Lado do terreno convertido: 20
 
-Caso 2:
-Digite os valores de A, B e C (digite 0 em qualquer um para sair): 1 10 100
-Saída: Lado do terreno convertido: 3
+## Caso 2:
+## Entrada: Digite os valores de A, B e C (digite 0 em qualquer um para sair): 1 10 100
+## Saída: Lado do terreno convertido: 3
 
-Caso 3: 
-Digite os valores de A, B e C (digite 0 em qualquer um para sair): 10 3 100
-Saída: Lado do terreno convertido: 5
+## Caso 3: 
+## Entrada: Digite os valores de A, B e C (digite 0 em qualquer um para sair): 10 3 100
+## Saída: Lado do terreno convertido: 5
 
 ---
 
@@ -242,28 +242,7 @@ O código é composto pela função principal main, que lida com a entrada do us
 
 ## Exemplo de Entrada e Saída:
 
-Entrada: Digite o numero de rodadas do jogo: 3
+## Entrada: 3 papel pedra lagarto tesoura Spock Spock
 
-Rodada 1:
-Entrada: 
-Digite a escolha do jogador 1 (tesoura, papel, pedra, lagarto ou Spock): papel
-Digite a escolha do jogador 2 (tesoura, papel, pedra, lagarto ou Spock): pedra
-         
-Saída: Resultado da Rodada #1: Bazinga!
-
-Rodada 2:
-Entrada: 
-Digite a escolha do jogador 1 (tesoura, papel, pedra, lagarto ou Spock): lagarto
-Digite a escolha do jogador 2 (tesoura, papel, pedra, lagarto ou Spock): tesoura
-         
-Saída: Resultado da Rodada #2: Raj trapaceou!
-
-Rodada 3
-entrada: 
-Digite a escolha do jogador 1 (tesoura, papel, pedra, lagarto ou Spock): spock
-Digite a escolha do jogador 2 (tesoura, papel, pedra, lagarto ou Spock): spock
-
-Saída: Resultado da Rodada #3: De novo!
-
-Fim do jogo!
+## Saída: Caso #1: Bazinga! Caso #2: Raj trapaceou! Caso #3: De novo!
 
