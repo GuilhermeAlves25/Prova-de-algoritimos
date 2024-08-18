@@ -26,22 +26,9 @@ O código é dividido em duas partes principais:
 
 Exemplo de Entrada e Saída
 
-Entrada:  Digite o tamanho do array: 5
-          Digite 6 numeros:
-          numero 1:
-          5
-          numero 2:
-          1
-          numero 3:
-          2
-          numero 4:
-          3
-          numero 5:
-          4
-          numero 6:
-          5
-
-Saída: A soma dos elementos do array é: 20
+Entrada: 4 2 5 9 10
+         
+Saída: A soma dos elementos do array é: 26
 
 ---
 
@@ -58,19 +45,12 @@ O código é dividido em duas partes principais:
 1. *Função multiplica_matrizes*: Executa a multiplicação das matrizes.
 2. *Função main*: Gerencia a entrada do usuário, chama a função multiplica_matrizes, e exibe a matriz resultante.
 
-Exemplo de Entrada e Saída
+## Exemplo de Entrada e Saída
 
-Entrada: Digite o tamanho da matriz: 2
-         Digite os elementos da matriz A:
-          A[0][0]: 1
-          A[0][1]: 2
-          A[1][0]: 3
-          A[1][1]: 4
-         Digite os elementos da matriz B:
-          B[0][0]: 5
-          B[0][1]: 6
-          B[1][0]: 7
-          B[1][1]: 8
+Entrada: 
+Digite o tamanho da matriz: 2
+         Digite os elementos da matriz A: 1 2 3 4
+         Digite os elementos da matriz B: 5 6 7 8
 
 Saída: Matriz Resultante:
        19 22
