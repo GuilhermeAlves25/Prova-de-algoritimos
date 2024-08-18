@@ -26,9 +26,9 @@ O código é dividido em duas partes principais:
 
 Exemplo de Entrada e Saída
 
-Entrada: 4 2 5 9 10
+## Entrada: 4 2 5 9 10
          
-Saída: A soma dos elementos do array é: 26
+## Saída: A soma dos elementos do array é: 26
 
 ---
 
@@ -47,15 +47,13 @@ O código é dividido em duas partes principais:
 
 ## Exemplo de Entrada e Saída
 
-Entrada: 
-Digite o tamanho da matriz: 2
+## Entrada: 
+## Digite o tamanho da matriz: 2
 
-Digite os elementos da matriz A: 1 2 3 4
-Digite os elementos da matriz B: 5 6 7 8
+## Digite os elementos da matriz A: 1 2 3 4
+## Digite os elementos da matriz B: 5 6 7 8
 
-Saída: Matriz Resultante:
-       19 22
-       43 50
+## Saída: Matriz Resultante: 19 22 43 50
 
 
 ---
@@ -82,9 +80,9 @@ Com base nos dois primeiros dígitos e na quantidade total de dígitos, o cartã
 
 ## Exemplo de Entrada e Saída
 
-Entrada: 378282246310005
+## Entrada: 378282246310005
 
-Saída: AMEX
+## Saída: AMEX
 
 
 ---
@@ -101,9 +99,9 @@ O código é composto por uma única função main, que realiza a leitura do val
 
 Exemplo de Entrada e Saída
 
-Entrada: 55
+## Entrada: 55
 
-Saída: Minimo de moedas necessarias: 3
+## Saída: Minimo de moedas necessarias: 3
 
 ---
 
@@ -138,17 +136,17 @@ Entrada: A string a ser analisada e a string de caracteres a serem evitados.
 
 ## Exemplo de Entrada e Saída
 
-Entrada: 
-Palavra do Jogador 1: Question? 
-Palavra do Jogador 2: Question!
+## Entrada: 
+## Palavra do Jogador 1: Question? 
+## Palavra do Jogador 2: Question!
 
-Saída: Empate!
+## Saída: Empate!
 
 ## Entrada: 
 ## Palavra do Jogador 1: red 
 ## Palavra do Jogador 2: wheelbarrow
 
-Saída: Jogador 2 vence!
+## Saída: Jogador 2 vence!
 
 ## Entrada: 
 ## Palavra do Jogador 1: COMPUTER 
@@ -170,8 +168,8 @@ O código é composto pela função principal main, que realiza a leitura da pal
 
 Exemplo de Entrada e Saída
 
-Entrada: HELLO
-Saída: FOLLE
+## Entrada: HELLO
+## Saída: FOLLE
 
 ---
 
@@ -187,16 +185,15 @@ O código é composto pela função principal main, que realiza a leitura da pal
 
 ## Exemplo de Entrada e Saída
 
-Entrada: 
+## Entrada: 
+## Chave de criptografia: 11111 
+## Digite o texto: HELLO
+## Saída: IFMMP
 
-Chave de criptografia: 11111 
-Digite o texto: HELLO
-Saída: IFMMP
-
-Entrada: 
-Chave de criptografia: 13 
-Digite o texto: Hi there!
-Saída: Uv gurer!
+## Entrada: 
+## Chave de criptografia: 13 
+## Digite o texto: Hi there!
+## Saída: Uv gurer!
 
 ---
 
