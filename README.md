@@ -143,13 +143,15 @@ Entrada: Palavra do Jogador 1: Question?
 
 Saída: Empate!
 
-Entrada: Palavra do Jogador 1: red 
-         Palavra do Jogador 2: wheelbarrow
+Entrada: 
+Palavra do Jogador 1: red 
+Palavra do Jogador 2: wheelbarrow
 
 Saída: Jogador 2 vence!
 
-Exemplo de Entrada: Palavra do Jogador 1: COMPUTER 
-                    Palavra do Jogador 2: science
+Exemplo de Entrada: 
+Palavra do Jogador 1: COMPUTER 
+Palavra do Jogador 2: science
 
 Saída: Jogador 1 vence!
 
