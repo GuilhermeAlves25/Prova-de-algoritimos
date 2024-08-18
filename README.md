@@ -49,8 +49,9 @@ O código é dividido em duas partes principais:
 
 Entrada: 
 Digite o tamanho da matriz: 2
-         Digite os elementos da matriz A: 1 2 3 4
-         Digite os elementos da matriz B: 5 6 7 8
+
+Digite os elementos da matriz A: 1 2 3 4
+Digite os elementos da matriz B: 5 6 7 8
 
 Saída: Matriz Resultante:
        19 22
