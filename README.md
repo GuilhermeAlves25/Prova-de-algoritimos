@@ -188,6 +188,7 @@ O código é composto pela função principal main, que realiza a leitura da pal
 ## Exemplo de Entrada e Saída
 
 Entrada: 
+
 Chave de criptografia: 11111 
 Digite o texto: HELLO
 Saída: IFMMP
